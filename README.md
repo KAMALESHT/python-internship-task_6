@@ -149,7 +149,7 @@ print(math.hypot(y,z))
 
 Solution:
 
-print("***Calculator****")
+print("Calculator")
 
 print("    1.Addition")
 
